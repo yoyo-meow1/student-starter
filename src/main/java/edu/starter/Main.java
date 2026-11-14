@@ -19,7 +19,7 @@ public final class Main {
             player.changeDefense(false);
             while (enemyisalive){
                 System.out.println("What would you like to do?");
-                System.out.println("1 - Attack");
+                System.out.println("1 - Attack 2");
                 System.out.println("2 - Special Attack");
                 System.out.println("3 - Defend");
                 System.out.println("4 - Recover");
